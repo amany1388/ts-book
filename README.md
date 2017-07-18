@@ -1,2 +1,2 @@
 # ts-book
-My TypeScript book examples
+TypeScript book examples
